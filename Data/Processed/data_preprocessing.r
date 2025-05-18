@@ -86,6 +86,6 @@ range_temp_ita_quandu = ita_quandu |>
 
 # Exportando os dados
 
-write.table(wind_rose_ita_quandu, file = "~/2023.2/Projeto Integrador 2/Data/Enrich/wind_rose_ita_quandu.csv", sep = ",", na = "", quote = T, row.names = F)
-write.table(stock_line_ita_quandu, file = "~/2023.2/Projeto Integrador 2/Data/Enrich/stock_line_ita_quandu.csv", sep = ",", na = "", quote = T, row.names = F)
-write.table(range_temp_ita_quandu, file = "~/2023.2/Projeto Integrador 2/Data/Enrich/range_temp_ita_quandu.csv", sep = ",", na = "", quote = T, row.names = F)
+write.table(wind_rose_ita_quandu, file = "~/2023.2/Projeto Integrador 2/Data/Processed/wind_rose_ita_quandu.csv", sep = ",", na = "", quote = T, row.names = F)
+write.table(stock_line_ita_quandu, file = "~/2023.2/Projeto Integrador 2/Data/Processed/stock_line_ita_quandu.csv", sep = ",", na = "", quote = T, row.names = F)
+write.table(range_temp_ita_quandu, file = "~/2023.2/Projeto Integrador 2/Data/Processed/range_temp_ita_quandu.csv", sep = ",", na = "", quote = T, row.names = F)
