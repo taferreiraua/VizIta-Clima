@@ -2,6 +2,3 @@
 
 <p align= "center">
   <a href="https://github.com/taferreiraua/VizIta-Clima/vizita-clima.jpeg"> 
-  <img src="https://github.com/taferreiraua/VizIta-Clima/vizita-clima.jpeg" width="1000" />
-  </a>
-</p>
